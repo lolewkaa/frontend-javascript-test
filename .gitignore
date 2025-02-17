@@ -1,0 +1,12 @@
+# Зависимости
+node_modules
+
+# Env файлы
+.env
+.env.local
+.env.development
+.env.test.local
+.env.production
+
+#сборка
+dist
